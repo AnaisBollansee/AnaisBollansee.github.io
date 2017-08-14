@@ -1,3 +1,3 @@
-# Anais Bollansee Home
+# Anaïs Bollansee Home
 
 [Thesis](/thesis/)
