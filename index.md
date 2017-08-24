@@ -1,6 +1,7 @@
-# Welcome to Anais' home page
+# Anaïs Bollansée
 
-I'm redirecting you to [my thesis](/thesis/)
+Welkom op mijn website! 
+U wordt nu doorverwezen naar mijn thesis: [Music over Mind](/thesis/).
 
 <script>
     window.location.href = "/thesis/"
