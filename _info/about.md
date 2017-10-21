@@ -134,31 +134,31 @@ order: 1
 <table>
 	<tr>
 		<td>Excel</td>
-		<td>	&#8902;	&#8902;	&#8902;</td>
+		<td>		&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Indesign</td>
-		<td>***</td>
+		<td>	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Word</td>
-		<td>****</td>
+		<td>	&#9733;	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Avid</td>
-		<td>***</td>
+		<td>	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Photoshop</td>
-		<td>***</td>
+		<td>	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Audacity</td>
-		<td>***</td>
+		<td>	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Lightroom</td>
-		<td>****</td>
+		<td>	&#9733;	&#9733;	&#9733;	&#9733;</td>
 	</tr>
 	<tr>
 		<td>Drivers license</td>
