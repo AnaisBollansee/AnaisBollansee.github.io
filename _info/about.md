@@ -13,11 +13,7 @@ order: 1
 <table>
 	<tr>
 		<td>Name</td>
-		<td>Bollansée</td>
-	</tr>
-	<tr>
-		<td>First name</td>
-		<td>Anaïs</td>
+		<td>Anaïs Bollansée</td>
 	</tr>
 	<tr>
 		<td>Date of birth</td>
