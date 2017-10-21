@@ -1,4 +1,7 @@
 body {
+  width: 100%; }
+
+content {
   font-family: "Verdana", Arial, Helvetica, sans-serif;
   padding-top: 50pt;
   margin: 0 auto;
@@ -54,3 +57,29 @@ td:first-child {
 
 img {
   width: 100%; }
+
+ul.navigation_bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  z-index: 100; }
+
+.navigation_bar li {
+  display: inline-block; }
+
+.navigation_bar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; }
+
+.navigation_bar li a:hover {
+  background-color: #111; }
+
+.navigation_bar .current {
+  background-color: #111; }
