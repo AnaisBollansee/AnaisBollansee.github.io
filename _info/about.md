@@ -1,21 +1,175 @@
 ---
 title:  "Anaïs Bollansée"
-link-title: "Anaïs"
+link-title: "About"
 order: 1
 ---
 
 # Anaïs Bollansée
 
-### Personal Data:**Name** Bollansée <br>**First Name** Anaïs**Address** Schaggeleweg 51<br>
-2390 Westmalle<br>	  Belgium**Telephone** 0032/03.311.60.35<br>**Cell Phone** 0032/488 45 17 45<br>**E-mail** anaisbollansee@hotmail.com**Date of birth** September 18th 1993<br>**Place of birth** Brasschaat, Belgium**Nationality** Belgian<br>**Sex** Female<br>**Marital Status** Single**Drivers license** B
+### Personal Data
 
-### Education**2005-2007**<br>Latin - Koninklijk Atheneum Oostmalle, Belgium<br>**2007-2011**<br>Steinerpedagogics, Hiberniaschool Antwerp, Belgium**2011-2012**<br>
-University Gent: Art Science<br>**2012-2013**<br>
-St Lucas College of Arts and Design Antwerp: Photography and Sculpting<br>**2013-2014**<br>
-University Antwerp: English, Theatre, Film and Literature Science<br>**2014-2017**<br>
-Thomas More Mechelen, Journalism (Graduated)<br>**2017-(2018)**<br>
-Vives Kortrijk, Specialisation programme Event management music & entertainment  
+<table>
+	<tr>
+		<td>Name</td>
+		<td>Bollansée</td>
+	</tr>
+	<tr>
+		<td>First name</td>
+		<td>Anaïs</td>
+	</tr>
+	<tr>
+		<td>Date of birth</td>
+		<td>September 18th</td>
+		<td>1993</td>
+	</tr>
+	<tr>
+		<td>Place of birth</td>
+		<td>Brasschaat</td>
+		<td>Belgium</td>
+	</tr>
+	<tr>
+		<td>Nationality</td>
+		<td>Belgian</td>
+	</tr>
+	<tr>
+		<td>Sex</td>
+		<td>Female</td>
+	</tr>
+	<tr>
+		<td>Marital status</td>
+		<td>Single</td>
+	</tr>
+	<tr>
+		<td>Drivers license</td>
+		<td>B</td>
+	</tr>
+	<tr>
+		<td>Contact</td>
+		<td><a href="mailto:anaisbollansee@hotmail.com">anaisbollansee@hotmail.com</a></td>
+	</tr>
+</table>
 
-### Work experience**2016** Reviewer @ www.metalfans.be<br>**2016** Intern ATLAS, Antwerpen<br>**2016** Reporter www.21bis.be, Mechelen<br>**2017** Internship Radio Dwarsligger, Aalst<br>**2017** Volunteer Netwerk, Aalst<br>**2017** Co-organiser La Rue En Rose, Kortrijk (In progress) 
 
-### Languages**Dutch** - Mother tongue<br>**English** - very good###SkillsExcel<br>Indesign<br>Word<br>Avid Media Composer<br> Photoshop<br>Audacity<br>Lightroom
+### Education
+
+<table>
+	<tr>
+		<td>2005-2007</td>
+		<td>Koninklijk Atheneum Oostmalle, 		Belgium</td>
+		<td>Latin</td>
+	</tr>
+	<tr>
+		<td>2007-2011</td>
+		<td>Hiberniaschool Antwerp, Belgium</td>
+		<td>Steinerpedagogics</td>
+	</tr>
+	<tr>
+		<td>2011-2012</td>
+		<td>University Gent</td>
+		<td>Art Science</td>
+	</tr>
+	<tr>
+		<td>2012-2013</td>
+		<td>St Lucas College of Arts and Design 		Antwerp</td>
+		<td>Photography and Sculpting</td>
+	</tr>
+	<tr>
+		<td>2013-2014</td>
+		<td>University Antwerp</td>
+		<td>English, Theatre, Film and 			Literature Science</td>
+	</tr>
+	<tr>
+		<td>2014-2017</td>
+		<td>Thomas More Mechelen</td>
+		<td>Journalism (Graduated)</td>
+	</tr>
+	<tr>
+		<td>2017-(2018)</td>
+		<td>Vives Kortrijk</td>
+		<td>Specialisation programme 				Eventmanagement/ music & 				entertainment</td>
+	</tr>
+</table>
+
+
+ 
+
+### Work experience
+
+<table>
+	<tr>
+		<td>2016</td>
+		<td>www.metalfans.be</td>
+		<td>Reviewer</td>
+	</tr>
+	<tr>
+		<td>2016</td>
+		<td>ATLAS</td>
+		<td>Freelancer</td>
+	</tr>
+	<tr>
+		<td>2016-2017</td>
+		<td>www.21bis.be</td>
+		<td>Reporter</td>
+	</tr>
+	<tr>
+		<td>2017</td>
+		<td>Radio Dwarsligger</td>
+		<td>Intern</td>
+	</tr>
+	<tr>
+		<td>2017</td>
+		<td>Netwerk, Aalst</td>
+		<td>Volunteer</td>
+	</tr>
+	<tr>
+		<td>2017-2018</td>
+		<td>La Rue En Rose, Kortrijk</td>
+		<td>Co-organiser (in progress)</td>
+	</tr>
+</table>
+
+### Languages
+
+<table>
+	<tr>
+		<td>Dutch</td>
+		<td>Mother tongue</td>
+	</tr>
+	<tr>
+		<td>English</td>
+		<td>Very good</td>
+	</tr>
+</table>
+### Skills
+
+<table>
+	<tr>
+		<td>Excel</td>
+		<td>***</td>
+	</tr>
+	<tr>
+		<td>Indesign</td>
+		<td>***</td>
+	</tr>
+	<tr>
+		<td>Word</td>
+		<td>****</td>
+	</tr>
+	<tr>
+		<td>Avid</td>
+		<td>***</td>
+	</tr>
+	<tr>
+		<td>Photoshop</td>
+		<td>***</td>
+	</tr>
+	<tr>
+		<td>Audacity</td>
+		<td>***</td>
+	</tr>
+	<tr>
+		<td>Lightroom</td>
+		<td>****</td>
+	</tr>
+</table>
+
