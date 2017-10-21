@@ -6,6 +6,8 @@ order: 1
 
 # Anaïs Bollansée
 
+TODO FOTO
+
 ### Personal Data
 
 <table>
