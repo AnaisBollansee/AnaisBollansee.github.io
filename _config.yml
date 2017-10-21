@@ -1,0 +1,14 @@
+permalink: pretty
+
+collections:
+  info:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: info
+    values:
+      layout: default
