@@ -134,7 +134,7 @@ order: 1
 <table>
 	<tr>
 		<td>Excel</td>
-		<td>***</td>
+		<td>	&#8902;	&#8902;	&#8902;</td>
 	</tr>
 	<tr>
 		<td>Indesign</td>
