@@ -3,6 +3,9 @@
 
 # Anaïs Bollansée
 
+{% include image.html url="/images/icon.png" %}
+
+
 
 <div id="flickrembed"></div>
 
