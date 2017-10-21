@@ -44,13 +44,16 @@ footer ul {
 	padding: 0;
 }
 
+a {
+	color: black;
+}
+
 footer li {
 	flex: 0 1 auto; /* Default */
 	list-style-type: none;
 }
 
 footer a {
-	color: black;
 	text-decoration: none;
 }
 
@@ -78,6 +81,8 @@ td:first-child {
 
 img {
 	width: 100%;
+	display: block;
+	margin: 0 auto;
 }
 
 ul.navigation_bar {

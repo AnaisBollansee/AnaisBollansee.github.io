@@ -1,9 +1,7 @@
 ---
 ---
 
-# Anaïs Bollansée
-
-{% include image.html url="/images/icon.png" %}
+{% include image.html url="/images/icon.png" style="width: 40%;" %}
 
 
 

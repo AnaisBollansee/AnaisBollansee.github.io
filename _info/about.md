@@ -20,24 +20,8 @@ order: 1
 		<td>September 18th 1993</td>
 	</tr>
 	<tr>
-		<td>Place of birth</td>
-		<td>Brasschaat, Belgium</td>
-	</tr>
-	<tr>
 		<td>Nationality</td>
 		<td>Belgian</td>
-	</tr>
-	<tr>
-		<td>Sex</td>
-		<td>Female</td>
-	</tr>
-	<tr>
-		<td>Marital status</td>
-		<td>Single</td>
-	</tr>
-	<tr>
-		<td>Drivers license</td>
-		<td>B</td>
 	</tr>
 	<tr>
 		<td>Contact</td>
@@ -48,81 +32,14 @@ order: 1
 
 ### Education
 
-<table>
-	<tr>
-		<td>2005-2007</td>
-		<td>Koninklijk Atheneum Oostmalle, 		Belgium</td>
-		<td>Latin</td>
-	</tr>
-	<tr>
-		<td>2007-2011</td>
-		<td>Hiberniaschool Antwerp, Belgium</td>
-		<td>Steinerpedagogics</td>
-	</tr>
-	<tr>
-		<td>2011-2012</td>
-		<td>University Gent</td>
-		<td>Art Science</td>
-	</tr>
-	<tr>
-		<td>2012-2013</td>
-		<td>St Lucas College of Arts and Design 		Antwerp</td>
-		<td>Photography and Sculpting</td>
-	</tr>
-	<tr>
-		<td>2013-2014</td>
-		<td>University Antwerp</td>
-		<td>English, Theatre, Film and 			Literature Science</td>
-	</tr>
-	<tr>
-		<td>2014-2017</td>
-		<td>Thomas More Mechelen</td>
-		<td>Journalism (Graduated)</td>
-	</tr>
-	<tr>
-		<td>2017-(2018)</td>
-		<td>Vives Kortrijk</td>
-		<td>Specialisation programme 				Eventmanagement/ music & 				entertainment</td>
-	</tr>
-</table>
+<table><tr>		<td>2017-(2018)</td>		<td>Vives Kortrijk</td>		<td>Specialisation programme 				Eventmanagement/ music & 				entertainment</td>	</tr><tr>		<td>2014-2017</td>		<td>Thomas More Mechelen</td>		<td>Journalism (Graduated)</td>	</tr><tr>		<td>2013-2014</td>		<td>University Antwerp</td>		<td>English, Theatre, Film and 			Literature Science</td>	</tr>		<tr>		<td>2012-2013</td>		<td>St Lucas College of Arts and Design 		Antwerp</td>		<td>Photography and Sculpting</td>	</tr><tr>		<td>2011-2012</td>		<td>University Gent</td>		<td>Art Science</td>	</tr>	<tr>		<td>2007-2011</td>		<td>Hiberniaschool Antwerp, Belgium</td>		<td>Steinerpedagogics</td>	</tr><tr>		<td>2005-2007</td>		<td>Koninklijk Atheneum Oostmalle, 		Belgium</td>		<td>Latin</td>	</tr></table>
 
 
  
 
 ### Work experience
 
-<table>
-	<tr>
-		<td>2016</td>
-		<td>www.metalfans.be</td>
-		<td>Reviewer</td>
-	</tr>
-	<tr>
-		<td>2016</td>
-		<td>ATLAS</td>
-		<td>Freelancer</td>
-	</tr>
-	<tr>
-		<td>2016-2017</td>
-		<td>www.21bis.be</td>
-		<td>Reporter</td>
-	</tr>
-	<tr>
-		<td>2017</td>
-		<td>Radio Dwarsligger</td>
-		<td>Intern</td>
-	</tr>
-	<tr>
-		<td>2017</td>
-		<td>Netwerk, Aalst</td>
-		<td>Volunteer</td>
-	</tr>
-	<tr>
-		<td>2017-2018</td>
-		<td>La Rue En Rose, Kortrijk</td>
-		<td>Co-organiser (in progress)</td>
-	</tr>
-</table>
+<table><tr>		<td>2017-2018</td>		<td>{% include link.html url="http://		www.larueenrose.org/" tekst="La Rue en 		Rose, Kortrijk" new_tab=true %}</td>		<td>Co-organiser (in progress)</td>	</tr><tr>		<td>2017</td>		<td>{% include link.html url="http://		www.netwerkaalst.be/en" tekst="Netwerk, 		Aalst" new_tab=true %}</td>		<td>Volunteer</td>	</tr><tr>		<td>2017</td>		<td>{% include link.html url="https://		soundcloud.com/dwarsliggerradio" 			tekst="Radio Dwarsligger" new_tab=true 		%}</td>		<td>Intern</td>	</tr><tr>		<td>2016-2017</td>		<td>{% include link.html url="http://		www.21bis.be/" tekst="www.21bis.be" 		new_tab=true %}</td>		<td>Reporter</td>	</tr>	<tr>		<td>2016</td>		<td>{% include link.html url="https://		www.atlas-antwerpen.be/nl" 				tekst="atlas" new_tab=true %}</td>		<td>Freelancer</td>	</tr><tr>		<td>2016</td>		<td>{% include link.html url="https://metalfans.be/" tekst="www.metalfans.be" new_tab=true %}</td>		<td>Reviewer</td>	</tr></table>
 
 ### Languages
 
@@ -167,5 +84,9 @@ order: 1
 		<td>Lightroom</td>
 		<td>****</td>
 	</tr>
-</table>
+	<tr>
+		<td>Drivers license</td>
+		<td>B</td>
+	</tr>
+	</table>
 
