@@ -1,6 +1,6 @@
 <ul class="navigation_bar">
 	<li>
-		<a href="{% include fix_url.html url='/' %}">◄ Home</a>
+		<a href="{% include fix_url.html url='/' %}"{% if page.url == '/' %} class="current"{% endif %}>◄ Home</a>
 	</li>{% 
 	assign ordered = site.info | sort: 'order' %}{% 
 	for info in ordered %}
