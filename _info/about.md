@@ -6,7 +6,7 @@ order: 1
 
 # Anaïs Bollansée
 
-TODO FOTO
+{% include image.html url="/images/Anaïs.jpg" %}
 
 ### Personal Data
 
