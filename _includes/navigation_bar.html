@@ -5,6 +5,9 @@
 	assign ordered = site.info | sort: 'order' %}{% 
 	for info in ordered %}
 	<li>
-		<a href="{% include fix_url.html url=info.url %}"{% if page.url == info.url %} class="current"{% endif %}>{{ info.link-title }}</a>
+		{% if info.redirect 
+		%}<a href="{% include fix_url.html url=info.redirect %}" target="_blank"{% if page.url == info.redirect %} class="current"{% endif %}>{{ info.link-title }}</a>{% 
+		else %}<a href="{% include fix_url.html url=info.url %}"{% if page.url == info.url %} class="current"{% endif %}>{{ info.link-title }}</a>{% 
+		endif %}
 	</li>{% endfor %}
 </ul>
