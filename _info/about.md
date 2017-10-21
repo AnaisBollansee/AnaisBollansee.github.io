@@ -17,13 +17,11 @@ order: 1
 	</tr>
 	<tr>
 		<td>Date of birth</td>
-		<td>September 18th</td>
-		<td>1993</td>
+		<td>September 18th 1993</td>
 	</tr>
 	<tr>
 		<td>Place of birth</td>
-		<td>Brasschaat</td>
-		<td>Belgium</td>
+		<td>Brasschaat, Belgium</td>
 	</tr>
 	<tr>
 		<td>Nationality</td>
